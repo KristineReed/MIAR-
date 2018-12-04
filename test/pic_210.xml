@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stroke</folder>
+	<filename>pic_210.jpg</filename>
+	<path>C:\TensorFlow\workspace\training_demo\stroke\pic_210.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stroke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>113</ymin>
+			<xmax>530</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>
